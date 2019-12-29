@@ -1,4 +1,11 @@
 {
+    "app": { 
+    "version": 
+    "7.4.0", 
+    "versionCode": "7.4.0", 
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/manager-v7.4.0/MagiskManager-v7.4.0.apk", 
+    "note": "" 
+  },
     "magisk": {
     "version": "19.4-2019091701-ianmacd",
     "versionCode": "2019091701",
